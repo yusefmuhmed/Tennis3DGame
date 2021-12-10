@@ -1,0 +1,18 @@
+{
+    "description": "The Unity Analytics Library contains the Analytics Event Tracker component, the Data Privacy plug-in, and the Standard Events API.", 
+    "displayName": "Analytics Library", 
+    "keywords": [
+        "analytics", 
+        "unity"
+    ], 
+    "name": "com.unity.analytics", 
+    "readme": "Unity Analytics", 
+    "repoPackagePath": "build/install/com.unity.analytics", 
+    "repository": {
+        "revision": "2b55e9256b23c28887d3c417f37b4f06e8b0d46a", 
+        "type": "git", 
+        "url": "git@gitlab.cds.internal.unity3d.com:upm-packages/analytics/com.unity.analytics.git"
+    }, 
+    "unity": "2018.3", 
+    "version": "3.2.0"
+}
